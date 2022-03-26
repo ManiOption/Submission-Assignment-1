@@ -14,8 +14,8 @@
 	<p>Logo of Amazon</p>
 	<?main>
 		<h1>Work Hard</h2>
-		<h3>Have fun</h3>
-		<H5>Make history</h4>
+		<h3>Fun</h3>
+		<H5>History</h4>
 	<img src="https://cdn.mos.cms.futurecdn.net/wiXtq4NPpGbNf6PEHTT4hg-970-80.jpg.webp">
 	<footer>Contact us.</footer>
 	</body>
