@@ -1,23 +1,16 @@
-<!DOCTYPE html>
-<html lang="en">
-	<head>
-	    <title>AmazonUK</Title>
-	    <meta charset="utf-8">
-	</head>
-	<nav>
-		<a href="Assignment.html">HOME</a> |
-		<a href="DOGGY.jpeg">Dog Picture</a> |
-		<a href="https://www.youtube.com/watch?v=1HygThMLzGs">Dog Video</a>
-	</nav>
-	<body>
-	<main>
-	<p>Logo of Amazon</p>
-	<?main>
-		<h1>Work Hard</h2>
-		<h3>Fun</h3>
-		<H5>History</h4>
-	<img src="https://cdn.mos.cms.futurecdn.net/wiXtq4NPpGbNf6PEHTT4hg-970-80.jpg.webp">
-	<footer>Contact us.</footer>
-	</body>
-	
-</html>
+<Html>    
+<Head>  
+<title>  
+Example of Paragraph tag  
+</title>  
+</Head>  
+<Body>   
+<p> <!-- It is a Paragraph tag for creating the paragraph -->  
+<b> HTML </b> stands for <i> <u> Hyper Text Markup Language. </u> </i> It is used to create a web pages and applications. This language   
+is easily understandable by the user and also be modifiable. It is actually a Markup language, hence it provides a flexible way for designing the  
+web pages along with the text.   
+</p>  
+HTML file is made up of different elements. <b> An element </b> is a collection of <i> start tag, end tag, attributes and the text between them</i>.   
+</p>  
+</Body>  
+</Html>  
